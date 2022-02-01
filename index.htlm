@@ -3,6 +3,11 @@
 < korpuss >
 <p> my name is Artis </p>
 < h1 > laipni lūdzam manā hobiju vietnē < h1 >
+<head>
+<title>arcijs hobby page </title>
+rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+
 < p > Šī ir rindkopa. </ p >
 < H1 > PAR MANI </ H1 >
 < H2 > MANS HOBIJS </ H2 >
